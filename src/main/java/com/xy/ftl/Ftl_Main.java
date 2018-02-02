@@ -13,7 +13,7 @@ public class Ftl_Main {
         ftl();
     }
     private static void ftl(){
-        //git
+
         try {
             //加载配置
             Configuration configuration=new Configuration(Configuration.getVersion());
